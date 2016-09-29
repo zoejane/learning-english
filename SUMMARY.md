@@ -4,5 +4,5 @@
 * [认知英语课](cognitive-english/README.md)
    * [Day4](cognitive-english/day4.md)
    * [认知英语资料](cognitive-english/thesis.md)
-* 英语实战训练营
+* [英语实战训练营](english-tour/README.md)
 
