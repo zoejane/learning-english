@@ -5,7 +5,7 @@
    * [Day4](cognitive-english/day4.md)
    * [[搜集]认知英语论文](cognitive-english/thesis.md)
    * [[笔记]元认知与元语言意识](cognitive-english/metacognitive-note.md)
+   * Day6
    * [Day5](cognitive-english/day5.md)
-* Day6
 * [英语实战训练营](english-tour/README.md)
 
