@@ -8,5 +8,5 @@
    * [Day5](cognitive-english/day5.md)
    * [Day6](cognitive-english/day6.md)
 * [Fluent Forever](fluent-forever/README.md)
-   * How to Use Anki
+   * [How to Use Anki](fluent-forever/how_to_use_anki.md)
 
