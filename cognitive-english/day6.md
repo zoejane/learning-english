@@ -49,7 +49,6 @@ Rule Two: Voiced and Voiceless Consonants
 ### 2 - 04 TH音
 Rule Three: 'TH' Sound
 
-- Don't touch too hard.
-舌头与上齿的接触不用太紧。不然气流出不来。
 - 舌头要碰到牙齿。不然会发成s,z。
 - 动作也不用太明显，舌头不用太靠前，不然影响语速。
+- Don't touch too hard.舌头与上齿的接触不用太紧。不然气流出不来。
