@@ -44,6 +44,7 @@ Rule Two: Voiced and Voiceless Consonants
 - Vowel is longer before voiced consonant.
 发声的音前面的元音比较长。
   - 如“ice” “eyes”，eyes中元音发音更长。
+  - 可以在听iAngel Sound时用来判断。
 
 ### 2 - 04 TH音
 Rule Three: 'TH' Sound
